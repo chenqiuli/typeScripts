@@ -70,3 +70,5 @@ type myType = 1 | 2 | 3
 let aaa: myType
 let bbb: myType
 let ccc: myType
+
+//
